@@ -21,6 +21,7 @@ import {
   proctor,
   reactjs,
   redux,
+  signConnectPlus,
   tailwind,
   threejs,
   tripguide,
@@ -1108,7 +1109,7 @@ const projects = [
         color: "grey-text-gradient",
       },
     ],
-    image: carrent,
+    image: signConnectPlus,
     source_code_link: "https://github.com/",
   }
 ];

@@ -46,6 +46,8 @@ import apewedamahataya from "./apewedamahataya.png"
 import proctor from "./proctor.jpeg"
 import epf from "./epf.png"
 import flexi from "./flexi.png"
+import signConnectPlus from "./signConnectPlus.png"
+
 
 export {
   logo,
@@ -91,5 +93,6 @@ export {
   apewedamahataya,
   proctor,
   epf,
-  flexi
+  flexi,
+  signConnectPlus
 };
