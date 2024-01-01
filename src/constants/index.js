@@ -1,10 +1,14 @@
 import {
+  apewedamahataya,
   backend,
   carrent,
   creator,
   css,
+  digitalArts,
   docker,
+  epf,
   figma,
+  flexi,
   git,
   html,
   icon1,
@@ -14,6 +18,7 @@ import {
   mobile,
   mongodb,
   nodejs,
+  proctor,
   reactjs,
   redux,
   tailwind,
@@ -185,7 +190,7 @@ const experiences = [
     company_name: "OLAK Technologies",
     icon: icon2,
     iconBg: "#383E56",
-    date: "Nov 2020 - Present",
+    date: "Nov 2020 - Apr 2021",
     points: [
       "Contributed as a designer developer to the development of the Digital Arts website application, utilizing HTML, CSS, JavaScript, and Bootstrap template.",
     ],
@@ -195,7 +200,7 @@ const experiences = [
     company_name: "OLAK Technologies",
     icon: icon2,
     iconBg: "#383E56",
-    date: "Nov 2020 - Present",
+    date: "Apr 2021 - Jan 2023",
     points: [
       "Led front-end and back-end design and development for the Apewedamahataya website and management application, incorporating HTML, CSS, JavaScript, and Bootstrap template.",
       "Developed end-to-end features and fixed bugs for the E-Traders platform, focusing on customer options and shop choice using HTML, CSS, JavaScript, Java, and Spring Boot.",
@@ -210,7 +215,7 @@ const experiences = [
     company_name: "OLAK Technologies",
     icon: icon2,
     iconBg: "#383E56",
-    date: "Nov 2020 - Present",
+    date: "Jan 2023 - Present",
     points: [
       "Led the development of the ERP Application (EDCS) to maintain resources, focusing on Finance and Claim RI modules, using React, TypeScript, Java, Spring Boot, and various databases.",
       "Played a crucial role in the creation and documentation of end-to-end functionalities, including table and backend development, frontend UI design, and API implementation.",
@@ -349,7 +354,7 @@ const projects = [
         color: "orange-text-gradient",
       },
     ],
-    image: carrent, // Replace with the actual image or leave it as a string if not applicable
+    image: digitalArts, // Replace with the actual image or leave it as a string if not applicable
     source_code_link: "https://github.com/",
   },
   {
@@ -378,7 +383,7 @@ const projects = [
         color: "orange-text-gradient",
       },
     ],
-    image: carrent,
+    image: apewedamahataya,
     source_code_link: "https://github.com/",
   },
   // {
@@ -506,7 +511,7 @@ const projects = [
         color: "red-text-gradient",
       },
     ],
-    image: carrent,
+    image: proctor,
     source_code_link: "https://github.com/",
   },
   // {
@@ -726,7 +731,7 @@ const projects = [
         color: "amber-text-gradient",
       },
     ],
-    image: carrent,
+    image: flexi,
     source_code_link: "https://github.com/",
   },
   {
@@ -790,7 +795,7 @@ const projects = [
         color: "amber-text-gradient",
       },
     ],
-    image: carrent,
+    image: epf,
     source_code_link: "https://github.com/",
   },
   // {

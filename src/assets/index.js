@@ -40,6 +40,13 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import eTraders from "./eTraders.jpeg"
+import digitalArts from "./digitalArts.jpeg"
+import apewedamahataya from "./apewedamahataya.png"
+import proctor from "./proctor.jpeg"
+import epf from "./epf.png"
+import flexi from "./flexi.png"
+
 export {
   logo,
   backend,
@@ -79,4 +86,10 @@ export {
   mysql,
   java,
   ant,
+  digitalArts,
+  eTraders,
+  apewedamahataya,
+  proctor,
+  epf,
+  flexi
 };
